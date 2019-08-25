@@ -11,6 +11,7 @@
  group: "Silver Sponsors"
  elements: 
     - {name: "REA Group", description: "REA Group", link: "https://www.rea-group.com/", imageUrl: "reagroup.png", width: "300px"}
+    - {name: "Sonatype", description: "Sonatype", link: "https://www.sonatype.com/", imageUrl: "sonatype.png", width: "300px"}
 - 
   group: "Bronze Sponsors"
   elements: 
