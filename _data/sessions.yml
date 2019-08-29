@@ -1,73 +1,122 @@
-- id: 001
-  title: To Be Announced
-  place: 'TBA'
-  description: 'to be announced'
+-
+  id: 301
+  title: "Registration & Morning Tea"
+  place: "Hall"
+  service: true
+  description: "Get your lanyard, swag, and coffee on before the talks!"
+-
+  id: 302
+  title: "Welcome"
+  place: "Conference Room 1"
+  service: true
+  description: "The organisers welcome you to DevOpsDays Sydney 2019!"
+-
+  id: 401
+  title: "Sponsor #1 - Lendi"
+  place: "Conference Room 1"
+  service: true
+-
+  id: 402
+  title: "Sponsor #2 - BuildKite"
+  place: "Conference Room 1"
+  service: true
+-
+  id: 403
+  title: "Sponsor #3"
+  place: "Conference Room 1"
+  service: true
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Hall"
+  service: true
+-
+  id: 504
+  title: "Morning Break"
+  place: "Hall"
+  description: "The best time to catch up with other speakers and attendees"
+-
+  id: 505
+  title: "Open Spaces"
+  place: "Hall"
+  description: "Open Spaces give attendees the opportunity to talk about anything they’d like. A person might suggest a topic they want to learn about, or one they feel like they can help others with. The topics range widely, from highly technical, to pure culture, to board games for networking."
+-
+  id: 001
+  title: "Who Destroyed Three Mile Island?"
+  description: "On March 28, 1979, at exactly 4 o’clock in the morning, control rods slammed into the reactor core of Three Mile Island Unit #2, halting the nuclear reaction because of a fault in the reactor cooling system. At 4:02, the automated emergency cooling system activated as the reactor core temperature continued to rise. At 4:04, one of the plant operators made the befuddling decision to switch off the emergency cooling system, dooming the reactor to partial meltdown.<br><br>Why?<br><br> When something bad happens, it’s easy to just blame someone and move on. Taking the time to find the systemic causes, though, will not only help keep the problem from repeating, it will enable you to build the psychological safety necessary for your team to truly collaborate. Let’s let the story of Three Mile Island teach us how to make our teams stronger through systems thinking and just culture."
+  subtype: keynote
   speakers: [1]
-  language: en
-  complexity: 'TBA'
-
-- id: 002
-  title: To Be Announced
-  place: 'TBA'
-  description: 'to be announced'
-  speakers: [1]
-  language: en
-  complexity: 'TBA'
-# -
-#   id: 307
-#   title: "Coffee Break"
-#   place: "Hall"
-#   service: true
-#   description: "The best time to talk with speakers and attendees"
-# -
-#   id: 503
-#   title: "Lunch Break"
-#   place: "Dining room"
-#   service: true
-# -
-#   id: 001
-#   title: "Material design: Visual style and imagery"
-#   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-#   subtype: workshop
-#   speakers: [3, 6]
-#   language: en
-#   complexity: "Intermediate"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-# -
-#   id: 002
-#   title: "Building Cloud-powered wearable Apps"
-#   description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-#   subtype: presentation
-#   speakers: [4, 5]
-#   language: en
-#   complexity: "Intermediate" 
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-# -
-#   id: 003
-#   title: "Android L Animation"
-#   description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-#   subtype: presentation
-#   speakers: [4]
-#   language: en
-#   complexity: "Intermediate" 
-#   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-# -
-#   id: 004
-#   title: "Polymer: Interacting with Google Services using nothing but HTML"
-#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#   subtype: keynote
-#   speakers: [6]
-#   language: uk
-#   complexity: "Beginner"
-#   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 002
+  title: "Fight, Flight, or Freeze — Releasing Organizational Trauma"
+  description: "When humans are faced with a traumatic experience, our brains kick in with survival mechanisms. These mechanisms are the familiar fight or flight response, but can also include the freeze response - which occurs when we are terrified or feel that there is no chance of escape.<br><br>In this talk I will explain the background of fight, flight, and freeze, and how it applies to organizations. Based on my own experiences with post-traumatic stress (PTS), I will give examples and suggestions on how to identify your own organizational trauma and how to help heal it.<br><br>Sufferers of post-traumatic stress continue to feel these fight, flight, and freeze responses long after the trauma has passed, because our brains are unable to differentiate between the memory of trauma and an actually occurring event. When activated or triggered, the brain reverts to these behaviors, which are then expressed in the person’s body (through posture, disassociation, muscle tension, etc).<br><br>The same can occur to organizations - once an organization has experienced a trauma (a large outage, say) the “memory” of that trauma leads to a deregulated state whenever activated (by symptoms of similar indicators, such as system alerts, customer issues, and more). The organization will insist on revisiting the same fight, flight, or freeze response as the embedded trauma has caused, which, like a triggered post-traumatic stress sufferer, is a false equivalency.<br><br>One of the treatments for post-traumatic stress is Eye Movement Desensitization and Reprocessing (EMDR), in which the patient’s difficult memories are offset with a positive association that is reinforced through external stimuli. The same can be done for organizations - removing the inaccurate traumatic associations of previous outages and organizational pain through game days, and other techniques, we can reduce the “scar tissue” of our organization and move forward in a balanced manner.<br><br>In this talk I will explain the background of fight, flight, and freeze, and how it applies to organizations. I will give examples and suggestions on how to identify your own organizational trauma and how to help heal it."
+  subtype: presentation
+  speakers: [8]
+-
+  id: 003
+  title: "Thou shalt not template YAML: Kubernetes Configuration Management with kr8"
+  description: "Launching a Kubernetes cluster is only the first stage of adopting Kubernetes. Kubernetes requires layers of components to create a production-ready platform.<br><br>Installing these components is not a known quantity and the current crop of configuration management tooling, like Puppet, Ansible and Chef don’t understand the abstraction layer of remote APIs.<br><br>Additionally, as the number of Kubernetes clusters you run grows, your ability to install components on them with slight and subtle differences becomes more and more manual. You’re left with snowflake clusters.<br><br>A new crop of tools like Kapitan and Ksonnet have recently come out that attempt to address these issues. We tried several but found significant shortcomings in existing approaches, so we created kr8 :a configuration management tool designed to bring an infrastructure as code philosophy to Kubernetes components.<br><br>This talk will cover the story of how kr8 became necessary for a team of cluster operators, as well as show a practical demo and example of deploying the components needed to build a Kubernetes based platform to multiple clusters across cloud providers, regions and development environments."
+  subtype: presentation
+  speakers: [3]
+-
+  id: 004
+  title: "Using Metrics to Build High Performance Teams"
+  description: "This talk is about the who, what, when, where and why of team measurement, with the ideal outcome being happier, healthier, more balanced, more engaged and higher performing teams.<br><br>I'll talk about the important things to measure, some things I've seen work, what those data points can tell you and what how you can use that information for the betterment of your teams."
+  subtype: presentation
+  speakers: [5]
+-
+  id: 005
+  title: "Maximising DevOps success through Culture"
+  description: "One of the biggest challenges for any team moving to DevOps is changing the culture of the organisation around them. Building a pipeline is black and white, changing people's roles and responsibilities is not. Let’s talk about fear, change, motivators and how you can influence and change a culture to ensure DevOps is successful."
+  subtype: keynote
+  speakers: [2]
+-
+  id: 006
+  title: "From Monitoring to Automated Testing of your Infrastructure Code"
+  description: "Don't have time to write automated tests for your infrastructure code? Don't see the point? Or don't know where to start? This talk is for you.<br><br>Now we're writing code to manage our infrastructure with tools like Chef, Puppet, Ansible, etc, we are effectively developing software. One of the wonderful aspects to this is that we have the world of software development quality best practices to draw on in order to achieve a high rate of change while not compromising on reliability. Writing tests for infrastructure code (and having them execute automatically as part of a continuous integration pipeline) is a key element to this, and is the focus for this talk.<br><br>But how do you get started on this? What are some tools to help? How should we think about this problem? This talk will provide an overview of the different types of tests that can be written, from small unit tests to integration and acceptance testing. It will focus on integration testing where existing monitoring checks can provide useful starting point.<br><br>After this talk attendees will:<ul> <li>Better understand the value of automated tests for infrastructure code</li><li>Be motivated to write tests and implement CI pipelines to execute these tests automatically</li><li>Know how to get started with some suggested open source tooling</li></ul>"
+  subtype: presentation
+  speakers: [10]
+-
+  id: 007
+  title: "Effective Onboarding Methods for DevOps Teams"
+  description: "DevOps is a culture of communication and cross-functional collaboration.<br><br>Team members may be new to the company, the team or both.<br>Effective onboarding is key to assist new team members to integrate into their new environment.<br><br>Over the last few years, I've experienced onboarding processes for DevOps teams. I've also helped to improve them.<br><br>This talk will cover why you need to improve your onboarding process, which methods have been the most effective, some pitfalls and the onboarding methods that people hate."
+  subtype: presentation
+  speakers: [11]
+-
+  id: 100
+  title: "Sharing: What's in it for me!?"
+  description: "Sharing. It’s one of the four pillars of CAMS. We consume so much shared content but have we ever thought about sharing from the point of view of the Sharer? Why should I share? If I’m constantly sharing information what do I get out of it? What’s in it for me!?<br><br>This lightning talk looks at sharing through the eyes of a Sharer. What benefits do they receive out of sharing? What cultural or psychological benefits are there?"
+  subtype: ignite
+  speakers: [4]
+  presentation: "https://glennsarti.github.io/presentation/sharing-whats-in-it-for-me-ndcsyd/"
+-
+  id: 101
+  title: "Packaging OpenShift Origin Kubernetes Distribution (OKD)"
+  description: "OpenShift Origin project (https://github.com/openshift/origin) is the source of OpenShift, the popular Enterprise Kubernetes distribution. But, how do this software gets packaged and released?<br><br>This lightning talk will explain how the CentOS community structures the SIGs - Special Interest Groups, what automation is used to build and test packages and how the packages are released.<br><br>Finally, we will explain how you can collaborate with the community and the release of packages."
+  subtype: ignite
+  speakers: [6]
+-
+  id: 102
+  title: "Testing - just say no to no"
+  description: "Automated testing (particularly when practiced by developers) has demonstrated value. A lot of things can *seem* like a barrier to entry. I contend that, yes, there are real problems, but people should on no account let it stop them implementing this valuable practice. IOW 'Just say no to no'."
+  subtype: ignite
+  speakers: [9]
+-
+  id: 103
+  title: "Deploying Radically, Democratizing Release"
+  description: "The state of software is driving to get software out the door more quickly, an ever-accelerating pace. We admire companies doing Continuous Integration and Continuous Deployment, even if we aren't there ourselves. What can you do as one person in an organization or one team in a company to make your software ready for the world more quickly?"
+  subtype: ignite
+  speakers: [7]
+-
+  id: 104
+  title: "TBA"
+  description: "TBA"
 # -
 #   id: 005
 #   title: "Test: Interacting with Google Services using nothing but HTML"
 #   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#   subtype: keynote
-#   speakers: [7]
+#   subtype: presentation
+#   speakers: [1]
 #   language: en
 #   complexity: "Expert"
 #   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
