@@ -3,10 +3,12 @@
   elements: 
     - {name: "Buildkite", description: "Buildkite", link: "https://buildkite.com/", imageUrl: "buildkite.svg", width: "200px"}
     - {name: "Lendi", description: "Lendi", link: "https://www.lendi.com.au/", imageUrl: "lendi.svg", width: "300px"}
+    - {name: "Google Cloud", description: "Google Cloud", link: "https://cloud.google.com/", imageUrl: "google-cloud.png", width: "400px"}
 -
   group: "Gold Sponsors"
   elements: 
     - {name: "Vibrato", description: "Vibrato", link: "https://www.vibrato.com.au/", imageUrl: "vibrato.jpg", width: "250px"}
+    - {name: "Pagerduty", description: "Pagerduty", link: "https://www.pagerduty.com/", imageUrl: "pagerduty.png", width: "300px"}
 - 
  group: "Silver Sponsors"
  elements: 
