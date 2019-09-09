@@ -9,6 +9,7 @@
   elements: 
     - {name: "Vibrato", description: "Vibrato", link: "https://www.vibrato.com.au/", imageUrl: "vibrato.jpg", width: "250px"}
     - {name: "Pagerduty", description: "Pagerduty", link: "https://www.pagerduty.com/", imageUrl: "pagerduty.png", width: "300px"}
+    - {name: "Rancher", description: "Rancher", link: "https://rancher.com/", imageUrl: "rancher.png", width: "250px"}
 - 
  group: "Silver Sponsors"
  elements: 
