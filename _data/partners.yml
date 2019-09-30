@@ -7,7 +7,7 @@
 -
   group: "Gold Sponsors"
   elements: 
-    - {name: "Vibrato", description: "Vibrato", link: "https://www.vibrato.com.au/", imageUrl: "vibrato.jpg", width: "250px"}
+    - {name: "Servian", description: "Servian", link: "https://www.servian.com/", imageUrl: "servian.png", width: "250px"}
     - {name: "Pagerduty", description: "Pagerduty", link: "https://www.pagerduty.com/", imageUrl: "pagerduty.png", width: "300px"}
     - {name: "Rancher", description: "Rancher", link: "https://rancher.com/", imageUrl: "rancher.png", width: "250px"}
 - 
@@ -15,6 +15,7 @@
  elements: 
     - {name: "REA Group", description: "REA Group", link: "https://www.rea-group.com/", imageUrl: "reagroup.png", width: "300px"}
     - {name: "Sonatype", description: "Sonatype", link: "https://www.sonatype.com/", imageUrl: "sonatype.png", width: "300px"}
+    - {name: "GitLab", description: "GitLab", link: "https://about.gitlab.com/", imageUrl: "gitlab.png", width: "300px"}
 - 
   group: "Bronze Sponsors"
   elements: 
