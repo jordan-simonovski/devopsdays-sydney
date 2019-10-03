@@ -26,6 +26,7 @@
  elements: 
     - {name: "REA Group", description: "REA Group", link: "https://www.rea-group.com/", imageUrl: "reagroup.png", width: "200px"}
     - {name: "Code Partners", description: "Code Partners", link: "https://www.code-partners.com/", imageUrl: "code-partners.png", width: "200px"}
+    - {name: "Cevo", description: "Cevo", link: "https://cevo.com.au/", imageUrl: "cevo.png", width: "200px"}
 -
   group: "Coffee Sponsors"
   elements:
