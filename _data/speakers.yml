@@ -145,3 +145,17 @@
   social:
     - {name: "twitter", link: "https://twitter.com/kml"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/katherinelim/"}
+-
+  id: 12
+  name: "Heidi"
+  surname: "Waterhouse"
+  company: "LaunchDarkly"
+  title: "Developer Advocate"
+  bio: "Heidi is a developer advocate with LaunchDarkly. She delights in working at the intersection of usability, risk reduction, and cutting-edge technology. One of her favorite hobbies is talking to developers about things they already knew but had never thought of that way before. She sews all her conference dresses so that she's sure there is a pocket for the mic."
+  thumbnailUrl: heidiwaterhouse.jpg
+  keynote: false
+  rockstar: true
+  social: 
+    - {name: "Twitter", link: "https://twitter.com/wiredferret"}
+    - {name: "LinkedIn", link: "https://www.linkedin.com/in/heidiwaterhouse/"}
+    - {name: "Blog", link: "https://heidiwaterhouse.com/"}
