@@ -155,7 +155,7 @@
   thumbnailUrl: heidiwaterhouse.jpg
   keynote: false
   rockstar: true
-  social: 
-    - {name: "Twitter", link: "https://twitter.com/wiredferret"}
-    - {name: "LinkedIn", link: "https://www.linkedin.com/in/heidiwaterhouse/"}
-    - {name: "Blog", link: "https://heidiwaterhouse.com/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/wiredferret"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/heidiwaterhouse/"}
+    - {name: "site", link: "https://heidiwaterhouse.com/"}
