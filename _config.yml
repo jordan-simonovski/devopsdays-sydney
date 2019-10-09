@@ -59,8 +59,8 @@ eventDate: "October 10 - October 11, 2019"
 typeoutTextValues: '"Sydney"'
 typeoutFallback: "Sydney"
 heroButtons:
- - {link: "/assets/DevOpsDays Sydney 2019 - Sponsorship Prospectus.pdf", text: "Sponsor DevOpsDays"}
- - {permalink: "/#tickets", text: "Purchase tickets"}
+  - {permalink: "/agenda", text: "Event Agenda"}
+#  - {link: "/assets/DevOpsDays Sydney 2019 - Sponsorship Prospectus.pdf", text: "Sponsor DevOpsDays"}
 #  - {link: "https://diversitytickets.org/en/events/510", text: "Apply for a Community Ticket"}
 
 # About Block
