@@ -120,58 +120,58 @@
   speakers: [12]
 -
   id: 701
-  title: "Feature Flags"
+  title: "<b>Room 2</b> - Feature Flags"
   subtype: "openspace"
 -
   id: 702
-  title: "Learning From Incidents"
+  title: "<b>Room 3</b> - Learning From Incidents"
   subtype: "openspace"
 -
   id: 703
-  title: "How Do I Get Exec to Buy into my Changes"
+  title: "<b>Room 4</b> - How Do I Get Exec to Buy into my Changes"
   subtype: "openspace"
 -
   id: 704
-  title: "Testing in Prod"
+  title: "<b>Room 2</b> Testing in Prod"
   subtype: "openspace"
 -
   id: 705
-  title: "Hiring In DevOps"
+  title: "<b>Room 3</b> Hiring In DevOps"
   subtype: "openspace"
 -
   id: 706
-  title: "Contracts and DevOps"
+  title: "<b>Room 4</b> Contracts and DevOps"
   subtype: "openspace"
 -
   id: 707
-  title: "Service Meshes - Do they Add More Value Than Complexity"
+  title: "<b>Room 2</b> Service Meshes - Do they Add More Value Than Complexity"
   subtype: "openspace"
 -
   id: 708
-  title: "Is Vendor Lock-In Always Bad?"
+  title: "<b>Room 3</b> Is Vendor Lock-In Always Bad?"
   subtype: "openspace"
 -
   id: 709
-  title: "Devs On Call"
+  title: "<b>Room 4</b> Devs On Call"
   subtype: "openspace"
 -
   id: 710
-  title: "Best Practices in a Multi-Cloud Architecture"
+  title: "<b>Room 2</b> Best Practices in a Multi-Cloud Architecture"
   subtype: "openspace"
 -
   id: 711
-  title: "Kubernetes is Not The Answer"
+  title: "<b>Room 4</b> Kubernetes is Not The Answer"
   subtype: "openspace"
 -
   id: 712
-  title: "How Does Enterprise Architecture Fit Into DevOps"
+  title: "<b>Room 2</b> How Does Enterprise Architecture Fit Into DevOps"
   subtype: "openspace"
 - id: 713
-  title: "How Responsible Are Open Source Projects for your problems?"
+  title: "<b>Room 3</b> How Responsible Are Open Source Projects for your problems?"
   subtype: "openspace"
 -
   id: 714
-  title: "Operational Readiness - Best Practices vs Enforcement"
+  title: "<b>Room 4</b> Operational Readiness - Best Practices vs Enforcement"
   subtype: "openspace"
 -
   id: 800
