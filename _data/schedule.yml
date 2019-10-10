@@ -84,6 +84,20 @@
       endTime: "15:30",
       sessionIds: [800]
     }
+    - {
+      startTime: "15:30",
+      endTime: "16:00",
+      sessionIds: [710, 711]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "16:30",
+      sessionIds: [712, 713, 714]
+    }
+    - {
+      startTime: "16:30",
+      sessionIds: [801]
+    }
 - 
   date: "2019-10-11"
   dateReadable: "October 11"

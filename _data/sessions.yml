@@ -155,9 +155,32 @@
   title: "Devs On Call"
   subtype: "openspace"
 -
+  id: 710
+  title: "Best Practices in a Multi-Cloud Architecture"
+  subtype: "openspace"
+-
+  id: 711
+  title: "Kubernetes is Not The Answer"
+  subtype: "openspace"
+-
+  id: 712
+  title: "How Does Enterprise Architecture Fit Into DevOps"
+  subtype: "openspace"
+- id: 713
+  title: "How Responsible Are Open Source Projects for your problems?"
+  subtype: "openspace"
+-
+  id: 714
+  title: "Operational Readiness - Best Practices vs Enforcement"
+  subtype: "openspace"
+-
   id: 800
   title: "Break"
   subtype: "break"
+-
+  id: 801
+  title: "Close"
+  subtype: "close"
 
 # -
 #   id: 005
