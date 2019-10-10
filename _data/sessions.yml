@@ -118,6 +118,18 @@
   description: "The state of software is driving to get software out the door more quickly, an ever-accelerating pace. We admire companies doing Continuous Integration and Continuous Deployment, even if we aren't there ourselves. What can you do as one person in an organization or one team in a company to make your software ready for the world more quickly?"
   subtype: ignite
   speakers: [12]
+-
+  id: 701
+  title: "Feature Flags"
+  subtype: "openspace"
+-
+  id: 702
+  title: "Learning From Incidents"
+  subtype: "openspace"
+-
+  id: 703
+  title: "How Do I Get Exec to Buy into my Changes"
+  subtype: "openspace"
 # -
 #   id: 005
 #   title: "Test: Interacting with Google Services using nothing but HTML"

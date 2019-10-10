@@ -64,6 +64,11 @@
       endTime: "16:45",
       sessionIds: [505]
     }
+    - {
+      startTime: "13:20",
+      endTime: "14:00",
+      sessionIds: [701,702,703]
+    }
 - 
   date: "2019-10-11"
   dateReadable: "October 11"
