@@ -69,6 +69,21 @@
       endTime: "14:00",
       sessionIds: [701,702,703]
     }
+    - {
+      startTime: "14:00",
+      endTime: "14:30",
+      sessionIds: [704, 705, 706]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "15:00",
+      sessionIds: [707, 708, 709]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "15:30",
+      sessionIds: [800]
+    }
 - 
   date: "2019-10-11"
   dateReadable: "October 11"

@@ -130,6 +130,35 @@
   id: 703
   title: "How Do I Get Exec to Buy into my Changes"
   subtype: "openspace"
+-
+  id: 704
+  title: "Testing in Prod"
+  subtype: "openspace"
+-
+  id: 705
+  title: "Hiring In DevOps"
+  subtype: "openspace"
+-
+  id: 706
+  title: "Contracts and DevOps"
+  subtype: "openspace"
+-
+  id: 707
+  title: "Service Meshes - Do they Add More Value Than Complexity"
+  subtype: "openspace"
+-
+  id: 708
+  title: "Is Vendor Lock-In Always Bad?"
+  subtype: "openspace"
+-
+  id: 709
+  title: "Devs On Call"
+  subtype: "openspace"
+-
+  id: 800
+  title: "Break"
+  subtype: "break"
+
 # -
 #   id: 005
 #   title: "Test: Interacting with Google Services using nothing but HTML"
