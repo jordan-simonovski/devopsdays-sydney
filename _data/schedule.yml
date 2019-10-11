@@ -158,3 +158,33 @@
       startTime: "13:30",
       endTime: "14:00",
       sessionIds: [715,716,717]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "14:30",
+      sessionIds: [718,719,720]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "15:00",
+      sessionIds: [721,722,723]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "15:30",
+      sessionIds: [800]
+    }
+    - {
+      startTime: "15:30",
+      endTime: "16:00",
+      sessionIds: [724,725,726]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "16:30",
+      sessionIds: [727,728,729]
+    }
+    - {
+      startTime: "16:30",
+      sessionIds: [801]
+    }

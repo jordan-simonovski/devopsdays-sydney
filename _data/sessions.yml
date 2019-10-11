@@ -174,13 +174,49 @@
   title: "<b>Room 4</b> Operational Readiness - Best Practices vs Enforcement"
   subtype: "openspace"
 - id: 715
-  title: "<b>Room 2</b> TBA"
+  title: "<b>Room 2</b> Docs for DevOps"
   subtype: "openspace"
 - id: 716
-  title: "<b>Room 3</b> TBA"
+  title: "<b>Room 3</b> Incident Management - Are you good? How do you know?"
   subtype: "openspace"
 - id: 717
-  title: "<b>Room 3</b> TBA"
+  title: "<b>Room 4</b> Help Devs with flaky tests"
+  subtype: "openspace"
+- id: 718
+  title: "<b>Room 2</b> Pet Care - Practices for the stuff you can't just regenerate"
+  subtype: "openspace"
+- id: 719
+  title: "<b>Room 3</b> Women in tech - Supporting them after they get jobs"
+  subtype: "openspace"
+- id: 720
+  title: "<b>Room 4</b> Open Sourcing Projects within your organisation"
+  subtype: "openspace"
+- id: 721
+  title: "<b>Room 2</b> How are you DevOpsing?"
+  subtype: "openspace"
+- id: 722
+  title: "<b>Room 3</b> Strategies for smashing the glass ceiling for tech"
+  subtype: "openspace"
+- id: 723
+  title: "<b>Room 4</b> Effective OKRs"
+  subtype: "openspace"
+- id: 724
+  title: "<b>Room 2</b> Database As Code"
+  subtype: "openspace"
+- id: 725
+  title: "<b>Room 3</b> Managing Eye-Watering Cloud Costs"
+  subtype: "openspace"
+- id: 726
+  title: "<b>Room 4</b> Canarying for fun and profit"
+  subtype: "openspace"
+- id: 727
+  title: "<b>Room 2</b> How Many Pillars are there in observability"
+  subtype: "openspace"
+- id: 728
+  title: "<b>Room 3</b> Kubernetes Operators"
+  subtype: "openspace"
+- id: 729
+  title: "<b>Room 4</b> DevOpsDays Sydney - Feedback"
   subtype: "openspace"
 -
   id: 800
