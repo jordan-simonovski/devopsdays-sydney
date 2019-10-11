@@ -173,6 +173,15 @@
   id: 714
   title: "<b>Room 4</b> Operational Readiness - Best Practices vs Enforcement"
   subtype: "openspace"
+- id: 715
+  title: "<b>Room 2</b> TBA"
+  subtype: "openspace"
+- id: 716
+  title: "<b>Room 3</b> TBA"
+  subtype: "openspace"
+- id: 717
+  title: "<b>Room 3</b> TBA"
+  subtype: "openspace"
 -
   id: 800
   title: "Break"

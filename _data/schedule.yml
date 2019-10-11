@@ -154,3 +154,7 @@
       endTime: "17:00",
       sessionIds: [505]
     }
+    - {
+      startTime: "13:30",
+      endTime: "14:00",
+      sessionIds: [715,716,717]
